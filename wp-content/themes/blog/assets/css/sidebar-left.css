@@ -1,0 +1,32 @@
+.archive-date {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.archive-date a {
+    padding: 12px 16px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.archive-date a:hover {
+    color: #55d737;
+}
+
+.post-random {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.post-random a {
+    text-decoration: none;
+    padding: 14px 24px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 4px;
+}
+
+.post-random a:hover {
+    color: #30861c;
+}
